@@ -1,0 +1,24 @@
+.secciones {
+  margin-top: 50px;
+  padding: 15px;
+  background: palegreen;
+    
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.col-1 {
+  width: 300px;
+  margin: 0 10px;
+}
+
+p {
+  margin: 0px;
+}
+
+section {
+  padding: 0 50px;
+}

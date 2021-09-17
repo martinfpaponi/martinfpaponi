@@ -1,0 +1,24 @@
+footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  display: flex;
+  background: orange;
+  max-height: 50px;
+  align-items: center;
+  justify-content: center;
+}
+
+footer ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+    
+  
+}
+
+footer li{ 
+  padding: 0 10px;
+}
+
